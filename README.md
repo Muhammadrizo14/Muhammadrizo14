@@ -5,7 +5,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop webpages.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Cyber Safety.\
+🌱 &nbsp;I'm on track for learning more about Web development and everything related to it.\
 ✍️ &nbsp;In my free time, I pursue develop own projects as hobbies/side hustles.\
 ✉️ &nbsp;You can shoot me an email at iozxckali@gmail.com ! I'll try to respond as soon as I can.\
 
