@@ -1,13 +1,12 @@
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Rizo</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Привет, Я Ризо</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 &nbsp;Про меня
 
-💡 &nbsp;I like to explore new technologies and develop webpages.\
-🌱 &nbsp;I'm on track for learning more about Web development and everything related to it.\
-✍️ &nbsp;In my free time, I pursue develop own projects as hobbies/side hustles.\
-✉️ &nbsp;You can shoot me an email at iozxckali@gmail.com ! I'll try to respond as soon as I can.\
+💡 &nbsp;Изучаю новые технологии и все что связан с web разработкой
+✍️ &nbsp;В свободное время занимаюсь с улучшением проектов.
+✉️ &nbsp;Вы можете связаться со мной через телеграм по никнейму @ubuntuous ! Стараюсь ответить быстро\
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
